@@ -17,7 +17,4 @@ Root node: [7]
 
 
 
-
-
-![İsimsiz](https://user-images.githubusercontent.com/116453429/199882480-4e6a73cf-8a58-4ffa-a28c-07123c033ddf.png)
-
+![https](https://user-images.githubusercontent.com/116453429/199882562-b40db45f-b082-4823-8409-46ee9ee3280a.png)
