@@ -30,5 +30,6 @@ Root node: [7] -> Başlangıç kök düğümü
  
  ```
  
+ [patika.dev](https://app.patika.dev/emirhanbalci "patika.profilim")
 
 
