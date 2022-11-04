@@ -26,7 +26,7 @@ Root node: [7]
 
 [Root x=3]  - [Root y=4]
 
-[Root x=3]  - [Root y=4]  - [Root z=2]
+[Root x=3]  - [Root y=4]  -  [Root z=2]
  
  ```
  
