@@ -12,3 +12,11 @@ Root y = child node(sağ)
 Root z = child node(sol)
 
 Root node: [7] 
+
+```
+
+jhh
+
+
+```
+
