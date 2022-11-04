@@ -57,6 +57,7 @@
    [2,3,4,5,6,9,8,15,7] -> 4.Adım
 ```
 
+ [patika.dev](https://app.patika.dev/emirhanbalci "patika.profilim")
 
 
 
