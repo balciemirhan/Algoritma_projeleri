@@ -48,4 +48,4 @@ Big-O gösterimi:
 
 = O(nlogn)
 ```
-![](C:\Users\Monster\Desktop\Ekran görüntüsü 2022-11-04 040914.jpg)
+
