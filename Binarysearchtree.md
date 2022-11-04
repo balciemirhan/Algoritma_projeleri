@@ -13,9 +13,20 @@ Root z = child node(sol)
 
 Root node: [7] 
 
+[Root x =7] - [Root z=5]  -  [Root z=1] - [Root y=8]
 
+[Root x=1]  - [Root y=3]
 
-![Adsız](https://user-images.githubusercontent.com/116453429/199882685-16f7f7d2-51b0-4147-9674-2d231cd84c89.png)
+[Root x=5]  - [Root y=6]
 
+[Root x=1]  - [Root y=3]  -  [Root z=0]
+
+[Root x=8]  - [Root y=9]
+
+[Root x=3]  - [Root y=4]
+
+[Root x=3]  - [Root y=4]  - [Root z=2]
+ 
+ 
 
 
