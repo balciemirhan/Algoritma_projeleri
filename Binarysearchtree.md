@@ -14,8 +14,8 @@ Root z = child node(sol)
 Root node: [7] 
 
 
-![bcc57a9e-82da-4ef2-a6ee-25759839a28c](https://user-images.githubusercontent.com/116453429/199882642-f008d90c-cc49-4a66-94e9-b3e88de9f016.jpg)
 
+![Adsız](https://user-images.githubusercontent.com/116453429/199882685-16f7f7d2-51b0-4147-9674-2d231cd84c89.png)
 
 
 
