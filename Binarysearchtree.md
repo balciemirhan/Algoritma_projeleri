@@ -11,7 +11,7 @@ Root x = parent node
 Root y = child node(sağ)
 Root z = child node(sol)
 
-Root node: [7] -> Başlangıç değerim
+Root node: [7] -> Başlangıç kök düğümü
 
 
 [Root x =7] - [Root z=5]  -  [Root z=1]  -  [Root y=8]
