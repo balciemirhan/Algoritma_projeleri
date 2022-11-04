@@ -15,7 +15,7 @@ Root node: [7]
 
 
 
-![](Adsız.png)
+
 
 
 
