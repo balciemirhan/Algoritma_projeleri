@@ -5,7 +5,7 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ```
-Dizi 4 adımdan oluşur.(Ağacın derinliği)
+Dizi 4 adımdan oluşur. (Ağacın derinliği)
 
 Root x = parent node 
 Root y = child node(sağ)
