@@ -14,7 +14,7 @@ Root z = child node(sol)
 Root node: [7] -> Başlangıç kök düğümü
 
 
-[Root x =7] - [Root z=5]  -  [Root z=1]  -  [Root y=8] 
+[Root x=7] - [Root z=5]  -  [Root z=1]  -  [Root y=8] 
 
 [Root x=1]  - [Root y=3]
 
